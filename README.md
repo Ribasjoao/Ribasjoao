@@ -59,7 +59,6 @@ Me chamo João Victor Ribas dos Santos, sou natural do Paraná e atualmente curs
 />
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
