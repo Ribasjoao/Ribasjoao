@@ -58,8 +58,6 @@ Me chamo João Victor Ribas dos Santos, sou natural do Paraná e atualmente curs
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-
 ### 📊 Estatísticas
 
 <p>
