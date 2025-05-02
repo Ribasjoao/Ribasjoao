@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá! Sou o João Victor</h1>
 
 <p align="center">
-  💻 Analista de Redes | 🎓 Estudante de Ciência da Computação<br>
+  💻 Analista de Redes | 🎓 Estudante de Análise e desenvolvimento de sistemas<br>
   🔧 Técnico em Eletromecânica | 🌐 Entusiasta em Redes e Programação
 </p>
 
