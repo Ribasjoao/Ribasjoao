@@ -1,81 +1,65 @@
-# 👩🏻‍💻 João Ribas
 
-**`Estudante de Programação`**
+<h1 align="center">👋 Olá! Sou o João Victor</h1>
 
-Me chamo João Victor Ribas dos Santos, sou natural do Paraná e atualmente curso Análise e Desenvolvimento de Sistemas na UniAmérica. Tenho grande interesse por tecnologia, com foco em redes, infraestrutura, programação e novas tecnologias. Busco constantemente aprimorar meus conhecimentos e desenvolver habilidades práticas que me permitam crescer profissionalmente no setor de TI.
-  
-### 🤖 Linguagens e Tecnologias
+<p align="center">
+  💻 Analista de Redes | 🎓 Estudante de Ciência da Computação<br>
+  🔧 Técnico em Eletromecânica | 🌐 Entusiasta em Redes e Programação
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+Me chamo João Victor, sou do Paraná e atualmente trabalho como Analista de Redes, cursando Ciência da Computação. Tenho paixão por infraestrutura, redes e programação, e estou sempre buscando me desenvolver profissional e pessoalmente.
+
+- 🧩 Aprendendo: **JavaScript**, **C** e automação de redes  
+- 🔌 Experiência com: **Redes Cisco**, **Wireshark** e **troubleshooting**  
+- 🎯 Objetivo: Me tornar um profissional completo em infraestrutura e desenvolvimento
+
+---
+
+### 💡 Linguagens e Tecnologias
 
 
-<img 
-   align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+<p align="left">
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-
-<img 
-      align="rigth" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribasjoao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="Cisco" title="Cisco" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/archive/6/64/20180610231709%21Cisco_logo.svg" />
+<img alt="Wireshark" title="Wireshark" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+<p align="left">
+</p>
 
 </p>
 
-<picture align="center">
+
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ribasjoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribasjoao&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Contribuições
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ribasjoao/Ribasjoao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ribasjoao/Ribasjoao/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ribasjoao/Ribasjoao/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ribasjoao/Ribasjoao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ribasjoao/Ribasjoao/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoribassantos/)  
+📧 Email:
